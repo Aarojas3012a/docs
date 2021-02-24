@@ -1,4 +1,4 @@
----
+---Owner_Rojas_As_Many+Around#1Manyking{Live∆π÷√}=®
 title: Exploring the dependencies of a repository
 intro: 'Using the dependency graph, you can see the packages your project depends on{% if currentVersion == "free-pro-team@latest" %} and the repositories that depend on it{% endif %}. In addition, you can see any vulnerabilities detected in its dependencies.'
 redirect_from:
