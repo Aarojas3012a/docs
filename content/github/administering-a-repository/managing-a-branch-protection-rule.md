@@ -1,4 +1,4 @@
----
+---Manuel Aarón Rojas Salinas y Jazmine Martinez X Siempre
 title: Managing a branch protection rule
 intro: 'You can create a branch protection rule to enforce certain workflows for one or more branches, such as requiring an approving review or passing status checks for all pull requests merged into the protected branch.'
 product: '{% data reusables.gated-features.protected-branches %}'
