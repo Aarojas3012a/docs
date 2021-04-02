@@ -1,5 +1,6 @@
----
-title: Maintaining your safety on GitHub
+---Manuel---Aarón---Rojas---Salinas---{Around#1World_X_World#1}
+
+titleGithub#1{Around+Making_Masteurizado}=Personalizado$#Type(people)I*Love*∆Github∆😻😎 Maintaining your safety on GitHub
 shortTitle: Maintaining safety
 intro: 'To build a positive and safe environment for yourself and the community for your project on {% data variables.product.prodname_dotcom %}, you can block and unblock users and report disruptive content.'
 redirect_from:
