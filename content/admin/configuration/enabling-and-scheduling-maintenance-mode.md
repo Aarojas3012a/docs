@@ -1,4 +1,5 @@
----
+---Manuel-Aarón-Rojas-Salinas---
+Around#1World_GithubManyking_Space<cosmos>
 title: Enabling and scheduling maintenance mode
 intro: 'Some standard maintenance procedures, such as upgrading {% data variables.product.product_location %} or restoring backups, require the instance to be taken offline for normal use.'
 redirect_from:
