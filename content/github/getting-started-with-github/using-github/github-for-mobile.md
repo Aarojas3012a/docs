@@ -1,4 +1,4 @@
----
+Manuel Aarón Rojas Salinas Around Globe Around World Rojas As Many Millestones---
 title: GitHub for mobile
 intro: 'Triage, collaborate, and manage your work on {% data variables.product.product_name %} from your mobile device.'
 versions:
