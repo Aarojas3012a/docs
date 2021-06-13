@@ -1,4 +1,5 @@
----
+Rojas_As_Many@$&/:-)---Millestone<Resurge>%*_*
+Confidencial Camaleon Datos Que no compatibles no poder modificar an with communiti no touch proivido en sistema para usteses 
 title: GitHub Privacy Statement
 redirect_from:
   - /privacy/
